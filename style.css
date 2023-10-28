@@ -1,8 +1,33 @@
+:root {
+  --cor-do-fundo: #272424;
+  --cor-borda-jogo: #df3131;
+  --cor-do-texto: #ffffff;
+}
+
+
 html, body {
-  margin: 0;
-  padding: 0;
+  margin: 5rem 0rem 0rem 0rem;
+  padding: 0rem;
+  background-color: var(--cor-do-fundo)
 }
 
 canvas {
-  display: block;
+  display: flex;
+  text-align: center;
+  border-radius: 10%;
+  margin: 0 auto;
 }
+
+.apresentacao {
+  text-align: center;
+  align-items: center;
+  margin: 0 auto;
+}
+
+.apresentacao_texto {
+  font-size: 15px;
+  font-family: 'Press Start 2P';
+  margin: 0rem 0rem 1rem 0rem;
+  color: var(--cor-do-texto);
+}
+
