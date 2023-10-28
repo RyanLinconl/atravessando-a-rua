@@ -5,7 +5,7 @@ Nesse jogo seu objetivo é atravessar a rua, mas cuidado com os carros!
 
 # Sobre o projeto
 
-https://wmazoni-sds1.netlify.app
+https://atravessando-a-rua.vercel.app
 
 O 'Atravessando a Rua' representa um jogo web front-end cujo desenvolvimento foi inspirado e fundamentado nos ensinamentos dos cursos oferecidos pela plataforma Alura. [DevSuperior](https://www.alura.com.br "Site da Alura").
 
