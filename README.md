@@ -7,7 +7,7 @@ Nesse jogo seu objetivo é atravessar a rua, mas cuidado com os carros!
 
 https://atravessando-a-rua.vercel.app
 
-O 'Atravessando a Rua' representa um jogo web front-end cujo desenvolvimento foi inspirado e fundamentado nos ensinamentos dos cursos oferecidos pela plataforma Alura. [DevSuperior](https://www.alura.com.br "Site da Alura").
+O 'Atravessando a Rua' representa um jogo web front-end cujo desenvolvimento foi inspirado e fundamentado nos ensinamentos dos cursos oferecidos pela plataforma Alura. [Alura](https://www.alura.com.br "Site da Alura").
 
 O objetivo do jogo é atravessar a rua com sucesso, evitando ser atingido por carros, à medida que você acumula pontos.
 
